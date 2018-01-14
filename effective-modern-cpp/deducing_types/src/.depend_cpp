@@ -1,0 +1,1 @@
+../lib/functions.cc.o: functions.cc ../inc/functions.h
