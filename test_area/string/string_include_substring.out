@@ -1,0 +1,12 @@
+The program ./string_include_substring has started.
+parent: This is a long sentence containing the word dog in it.
+search: dog
+index regarded as true.
+(index != std::string::npos) is true.
+index: 44
+-----------
+parent: This is a long sentence containing the word dog in it.
+search: cat
+index regarded as true.
+index: 18446744073709551615
+-----------
